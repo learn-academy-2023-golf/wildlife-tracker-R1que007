@@ -1,24 +1,30 @@
-# README
+## RESTful Routes
+-Index: gets list of all data
+-Show: Shows single instance
+-New: gets form
+-Create: creates new instance
+-Edit: gets a form
+-Update: updates an instance
+-Destroy: removes an instance
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## API RESTful Routes
+-Index: gets list of all data
+-Show: Shows single instance
+-Create: creates new instance
+-Update: updates an instance
+-Destroy: removes an instance
 
-Things you may want to cover:
+## Index
+-Create method in controller
+-Run server
+-Open postman
+-set request
+-url: localhost:3000/wild_animals
 
-* Ruby version
+## Show
+-Create Show method in controller
+-Set request to get
+-url: localhost:3000/wild_animals
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Create
+-Create
